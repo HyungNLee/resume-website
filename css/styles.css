@@ -1,0 +1,23 @@
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.datefont {
+  color: #595959;
+  font-size: 14px;
+}
+
+.title2 {
+  font-size: 16;
+  font-style: italic;
+}
+
+.box {
+  width: 900px;
+}
